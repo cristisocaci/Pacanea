@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="pacanea" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/pacanea" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-DCSFML_STATIC" />
+					<Add directory="CSFML 2.5/include" />
+				</Compiler>
+				<Linker>
+					<Add library="CSFML 2.5/lib/msvc/csfml-graphics.lib" />
+					<Add library="CSFML 2.5/lib/msvc/csfml-audio.lib" />
+					<Add library="CSFML 2.5/lib/msvc/csfml-network.lib" />
+					<Add library="CSFML 2.5/lib/msvc/csfml-window.lib" />
+					<Add library="CSFML 2.5/lib/msvc/csfml-system.lib" />
+					<Add directory="CSFML 2.5/lib/gcc" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/pacanea" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="CSFML 2.5/bin/csfml-audio-2.dll" />
+		<Unit filename="CSFML 2.5/bin/csfml-graphics-2.dll" />
+		<Unit filename="CSFML 2.5/bin/csfml-network-2.dll" />
+		<Unit filename="CSFML 2.5/bin/csfml-system-2.dll" />
+		<Unit filename="CSFML 2.5/bin/csfml-window-2.dll" />
+		<Unit filename="CSFML 2.5/include/SFML/Audio.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Audio/Export.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Audio/Listener.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Audio/Music.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Audio/Sound.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Audio/SoundBuffer.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Audio/SoundBufferRecorder.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Audio/SoundRecorder.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Audio/SoundStatus.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Audio/SoundStream.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Audio/Types.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Config.h" />
+		<Unit filename="CSFML 2.5/include/SFML/GPUPreference.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/BlendMode.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/CircleShape.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/Color.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/ConvexShape.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/Export.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/Font.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/FontInfo.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/Glsl.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/Glyph.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/Image.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/PrimitiveType.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/Rect.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/RectangleShape.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/RenderStates.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/RenderTexture.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/RenderWindow.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/Shader.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/Shape.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/Sprite.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/Text.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/Texture.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/Transform.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/Transformable.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/Types.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/Vertex.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/VertexArray.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/VertexBuffer.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Graphics/View.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Network.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Network/Export.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Network/Ftp.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Network/Http.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Network/IpAddress.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Network/Packet.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Network/SocketSelector.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Network/SocketStatus.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Network/TcpListener.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Network/TcpSocket.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Network/Types.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Network/UdpSocket.h" />
+		<Unit filename="CSFML 2.5/include/SFML/OpenGL.h" />
+		<Unit filename="CSFML 2.5/include/SFML/System.h" />
+		<Unit filename="CSFML 2.5/include/SFML/System/Clock.h" />
+		<Unit filename="CSFML 2.5/include/SFML/System/Export.h" />
+		<Unit filename="CSFML 2.5/include/SFML/System/InputStream.h" />
+		<Unit filename="CSFML 2.5/include/SFML/System/Mutex.h" />
+		<Unit filename="CSFML 2.5/include/SFML/System/Sleep.h" />
+		<Unit filename="CSFML 2.5/include/SFML/System/Thread.h" />
+		<Unit filename="CSFML 2.5/include/SFML/System/Time.h" />
+		<Unit filename="CSFML 2.5/include/SFML/System/Types.h" />
+		<Unit filename="CSFML 2.5/include/SFML/System/Vector2.h" />
+		<Unit filename="CSFML 2.5/include/SFML/System/Vector3.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Window.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Window/Clipboard.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Window/Context.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Window/Cursor.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Window/Event.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Window/Export.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Window/Joystick.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Window/JoystickIdentification.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Window/Keyboard.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Window/Mouse.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Window/Sensor.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Window/Touch.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Window/Types.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Window/VideoMode.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Window/Window.h" />
+		<Unit filename="CSFML 2.5/include/SFML/Window/WindowHandle.h" />
+		<Unit filename="CSFML 2.5/lib/gcc/libcsfml-audio.a" />
+		<Unit filename="CSFML 2.5/lib/gcc/libcsfml-graphics.a" />
+		<Unit filename="CSFML 2.5/lib/gcc/libcsfml-network.a" />
+		<Unit filename="CSFML 2.5/lib/gcc/libcsfml-system.a" />
+		<Unit filename="CSFML 2.5/lib/gcc/libcsfml-window.a" />
+		<Unit filename="CSFML 2.5/lib/msvc/csfml-audio.lib" />
+		<Unit filename="CSFML 2.5/lib/msvc/csfml-graphics.lib" />
+		<Unit filename="CSFML 2.5/lib/msvc/csfml-network.lib" />
+		<Unit filename="CSFML 2.5/lib/msvc/csfml-system.lib" />
+		<Unit filename="CSFML 2.5/lib/msvc/csfml-window.lib" />
+		<Unit filename="CSFML 2.5/license.txt" />
+		<Unit filename="CSFML 2.5/readme.txt" />
+		<Unit filename="font/arial.ttf" />
+		<Unit filename="poze/Screenshot_1.png" />
+		<Unit filename="poze/meniu1.jpg" />
+		<Unit filename="source_code/intro.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source_code/main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source_code/meniu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source_code/meniu.h" />
+		<Unit filename="source_code/pacanea.h" />
+		<Unit filename="sunet/1112.ogg" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

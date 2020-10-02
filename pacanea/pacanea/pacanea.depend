@@ -1,0 +1,823 @@
+# depslib dependency file v1.0
+1545381959 source:c:\users\andrei\desktop\facultate\proiecte\pacanea\source_code\main.c
+	"pacanea.h"
+
+1544159998 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\audio.h
+	<SFML/System.h>
+	<SFML/Audio/Listener.h>
+	<SFML/Audio/Music.h>
+	<SFML/Audio/Sound.h>
+	<SFML/Audio/SoundBuffer.h>
+	<SFML/Audio/SoundBufferRecorder.h>
+	<SFML/Audio/SoundRecorder.h>
+	<SFML/Audio/SoundStatus.h>
+	<SFML/Audio/SoundStream.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\system.h
+	<SFML/Config.h>
+	<SFML/System/Clock.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Mutex.h>
+	<SFML/System/Sleep.h>
+	<SFML/System/Thread.h>
+	<SFML/System/Time.h>
+	<SFML/System/Vector2.h>
+	<SFML/System/Vector3.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\config.h
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\system\clock.h
+	<SFML/System/Export.h>
+	<SFML/System/Time.h>
+	<SFML/System/Types.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\system\export.h
+	<SFML/Config.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\system\time.h
+	<SFML/System/Export.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\system\types.h
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\system\inputstream.h
+	<SFML/System/Export.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\system\mutex.h
+	<SFML/System/Export.h>
+	<SFML/System/Types.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\system\sleep.h
+	<SFML/System/Export.h>
+	<SFML/System/Time.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\system\thread.h
+	<SFML/System/Export.h>
+	<SFML/System/Types.h>
+
+1545126640 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\system\vector2.h
+	<SFML/System/Export.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\system\vector3.h
+	<SFML/System/Export.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\audio\listener.h
+	<SFML/Audio/Export.h>
+	<SFML/System/Vector3.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\audio\export.h
+	<SFML/Config.h>
+
+1527891209 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\audio\music.h
+	<SFML/Audio/Export.h>
+	<SFML/Audio/SoundStatus.h>
+	<SFML/Audio/Types.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Time.h>
+	<SFML/System/Vector3.h>
+	<stddef.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\audio\soundstatus.h
+	<SFML/Audio/Export.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\audio\types.h
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\audio\sound.h
+	<SFML/Audio/Export.h>
+	<SFML/Audio/SoundStatus.h>
+	<SFML/Audio/Types.h>
+	<SFML/System/Time.h>
+	<SFML/System/Vector3.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\audio\soundbuffer.h
+	<SFML/Audio/Export.h>
+	<SFML/Audio/Types.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Time.h>
+	<stddef.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\audio\soundbufferrecorder.h
+	<SFML/Audio/Export.h>
+	<SFML/Audio/Types.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\audio\soundrecorder.h
+	<SFML/Audio/Export.h>
+	<SFML/Audio/Types.h>
+	<SFML/System/Time.h>
+	<stddef.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\audio\soundstream.h
+	<SFML/Audio/Export.h>
+	<SFML/Audio/SoundStatus.h>
+	<SFML/Audio/Types.h>
+	<SFML/System/Time.h>
+	<SFML/System/Vector3.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics.h
+	<SFML/Window.h>
+	<SFML/Graphics/BlendMode.h>
+	<SFML/Graphics/CircleShape.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/ConvexShape.h>
+	<SFML/Graphics/Font.h>
+	<SFML/Graphics/FontInfo.h>
+	<SFML/Graphics/Glyph.h>
+	<SFML/Graphics/Image.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/RectangleShape.h>
+	<SFML/Graphics/RenderStates.h>
+	<SFML/Graphics/RenderTexture.h>
+	<SFML/Graphics/RenderWindow.h>
+	<SFML/Graphics/Shader.h>
+	<SFML/Graphics/Shape.h>
+	<SFML/Graphics/Sprite.h>
+	<SFML/Graphics/Text.h>
+	<SFML/Graphics/Texture.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Transformable.h>
+	<SFML/Graphics/Vertex.h>
+	<SFML/Graphics/VertexArray.h>
+	<SFML/Graphics/View.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\window.h
+	<SFML/System.h>
+	<SFML/Window/Context.h>
+	<SFML/Window/Event.h>
+	<SFML/Window/Joystick.h>
+	<SFML/Window/JoystickIdentification.h>
+	<SFML/Window/Keyboard.h>
+	<SFML/Window/Mouse.h>
+	<SFML/Window/Sensor.h>
+	<SFML/Window/Touch.h>
+	<SFML/Window/VideoMode.h>
+	<SFML/Window/Window.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\window\context.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+	<SFML/Window/Window.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\window\export.h
+	<SFML/Config.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\window\types.h
+
+1527891209 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\window\window.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Event.h>
+	<SFML/Window/VideoMode.h>
+	<SFML/Window/WindowHandle.h>
+	<SFML/Window/Types.h>
+	<SFML/System/Vector2.h>
+
+1527891209 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\window\event.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Joystick.h>
+	<SFML/Window/Keyboard.h>
+	<SFML/Window/Mouse.h>
+	<SFML/Window/Sensor.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\window\joystick.h
+	<SFML/Window/Export.h>
+	<SFML/Window/JoystickIdentification.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\window\joystickidentification.h
+	<SFML/Window/Export.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\window\keyboard.h
+	<SFML/Window/Export.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\window\mouse.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+	<SFML/System/Vector2.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\window\sensor.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+	<SFML/System/Vector3.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\window\videomode.h
+	<SFML/Window/Export.h>
+	<stddef.h>
+
+1527891209 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\window\windowhandle.h
+	<SFML/Window/Export.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\window\touch.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+	<SFML/System/Vector2.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics\blendmode.h
+	<SFML/Graphics/Export.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics\export.h
+	<SFML/Config.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics\circleshape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1545160050 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics\color.h
+	<SFML/Graphics/Export.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics\rect.h
+	<SFML/Graphics/Export.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics\transform.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics\types.h
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics\convexshape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1527891209 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics\font.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/FontInfo.h>
+	<SFML/Graphics/Glyph.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/InputStream.h>
+	<stddef.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics\fontinfo.h
+	<SFML/Graphics/Export.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics\glyph.h
+	<SFML/Graphics/Rect.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics\image.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics\primitivetype.h
+	<SFML/Graphics/Export.h>
+
+1527891209 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics\rectangleshape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics\renderstates.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/BlendMode.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics\rendertexture.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/RenderStates.h>
+	<SFML/Graphics/Vertex.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics\vertex.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/System/Vector2.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics\renderwindow.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/RenderStates.h>
+	<SFML/Graphics/Vertex.h>
+	<SFML/Window/Event.h>
+	<SFML/Window/VideoMode.h>
+	<SFML/Window/WindowHandle.h>
+	<SFML/Window/Window.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics\shader.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Glsl.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Vector2.h>
+	<SFML/System/Vector3.h>
+	<stddef.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics\glsl.h
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Color.h>
+	<SFML/System/Vector2.h>
+	<SFML/System/Vector3.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics\shape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics\sprite.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/BlendMode.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics\text.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics\texture.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Window/Types.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics\transformable.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/System/Vector2.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics\vertexarray.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/Vertex.h>
+	<stddef.h>
+
+1527890545 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml\include\sfml\graphics\view.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1545381926 c:\users\andrei\desktop\facultate\proiecte\pacanea\source_code\pacanea.h
+	<SFML/Graphics.h>
+	<SFML/Window.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+
+1545381958 source:c:\users\andrei\desktop\facultate\proiecte\pacanea\source_code\meniu.c
+	"meniu.h"
+
+1545346385 c:\users\andrei\desktop\facultate\proiecte\pacanea\source_code\meniu.h
+	"pacanea.h"
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\audio.h
+	<SFML/System.h>
+	<SFML/Audio/Listener.h>
+	<SFML/Audio/Music.h>
+	<SFML/Audio/Sound.h>
+	<SFML/Audio/SoundBuffer.h>
+	<SFML/Audio/SoundBufferRecorder.h>
+	<SFML/Audio/SoundRecorder.h>
+	<SFML/Audio/SoundStatus.h>
+	<SFML/Audio/SoundStream.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\system.h
+	<SFML/Config.h>
+	<SFML/System/Clock.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Mutex.h>
+	<SFML/System/Sleep.h>
+	<SFML/System/Thread.h>
+	<SFML/System/Time.h>
+	<SFML/System/Vector2.h>
+	<SFML/System/Vector3.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\config.h
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\system\clock.h
+	<SFML/System/Export.h>
+	<SFML/System/Time.h>
+	<SFML/System/Types.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\system\export.h
+	<SFML/Config.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\system\time.h
+	<SFML/System/Export.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\system\types.h
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\system\inputstream.h
+	<SFML/System/Export.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\system\mutex.h
+	<SFML/System/Export.h>
+	<SFML/System/Types.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\system\sleep.h
+	<SFML/System/Export.h>
+	<SFML/System/Time.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\system\thread.h
+	<SFML/System/Export.h>
+	<SFML/System/Types.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\system\vector2.h
+	<SFML/System/Export.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\system\vector3.h
+	<SFML/System/Export.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\audio\listener.h
+	<SFML/Audio/Export.h>
+	<SFML/System/Vector3.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\audio\export.h
+	<SFML/Config.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\audio\music.h
+	<SFML/Audio/Export.h>
+	<SFML/Audio/SoundStatus.h>
+	<SFML/Audio/Types.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Time.h>
+	<SFML/System/Vector3.h>
+	<stddef.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\audio\soundstatus.h
+	<SFML/Audio/Export.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\audio\types.h
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\audio\sound.h
+	<SFML/Audio/Export.h>
+	<SFML/Audio/SoundStatus.h>
+	<SFML/Audio/Types.h>
+	<SFML/System/Time.h>
+	<SFML/System/Vector3.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\audio\soundbuffer.h
+	<SFML/Audio/Export.h>
+	<SFML/Audio/Types.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Time.h>
+	<stddef.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\audio\soundbufferrecorder.h
+	<SFML/Audio/Export.h>
+	<SFML/Audio/Types.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\audio\soundrecorder.h
+	<SFML/Audio/Export.h>
+	<SFML/Audio/Types.h>
+	<SFML/System/Time.h>
+	<stddef.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\audio\soundstream.h
+	<SFML/Audio/Export.h>
+	<SFML/Audio/SoundStatus.h>
+	<SFML/Audio/Types.h>
+	<SFML/System/Time.h>
+	<SFML/System/Vector3.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics.h
+	<SFML/Window.h>
+	<SFML/Graphics/BlendMode.h>
+	<SFML/Graphics/CircleShape.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/ConvexShape.h>
+	<SFML/Graphics/Font.h>
+	<SFML/Graphics/FontInfo.h>
+	<SFML/Graphics/Glyph.h>
+	<SFML/Graphics/Image.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/RectangleShape.h>
+	<SFML/Graphics/RenderStates.h>
+	<SFML/Graphics/RenderTexture.h>
+	<SFML/Graphics/RenderWindow.h>
+	<SFML/Graphics/Shader.h>
+	<SFML/Graphics/Shape.h>
+	<SFML/Graphics/Sprite.h>
+	<SFML/Graphics/Text.h>
+	<SFML/Graphics/Texture.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Transformable.h>
+	<SFML/Graphics/Vertex.h>
+	<SFML/Graphics/VertexArray.h>
+	<SFML/Graphics/VertexBuffer.h>
+	<SFML/Graphics/View.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\window.h
+	<SFML/System.h>
+	<SFML/Window/Clipboard.h>
+	<SFML/Window/Context.h>
+	<SFML/Window/Cursor.h>
+	<SFML/Window/Event.h>
+	<SFML/Window/Joystick.h>
+	<SFML/Window/JoystickIdentification.h>
+	<SFML/Window/Keyboard.h>
+	<SFML/Window/Mouse.h>
+	<SFML/Window/Sensor.h>
+	<SFML/Window/Touch.h>
+	<SFML/Window/VideoMode.h>
+	<SFML/Window/Window.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\window\clipboard.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\window\export.h
+	<SFML/Config.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\window\types.h
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\window\context.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+	<SFML/Window/Window.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\window\window.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Event.h>
+	<SFML/Window/VideoMode.h>
+	<SFML/Window/WindowHandle.h>
+	<SFML/Window/Types.h>
+	<SFML/System/Vector2.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\window\event.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Joystick.h>
+	<SFML/Window/Keyboard.h>
+	<SFML/Window/Mouse.h>
+	<SFML/Window/Sensor.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\window\joystick.h
+	<SFML/Window/Export.h>
+	<SFML/Window/JoystickIdentification.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\window\joystickidentification.h
+	<SFML/Window/Export.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\window\keyboard.h
+	<SFML/Window/Export.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\window\mouse.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+	<SFML/System/Vector2.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\window\sensor.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+	<SFML/System/Vector3.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\window\videomode.h
+	<SFML/Window/Export.h>
+	<stddef.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\window\windowhandle.h
+	<SFML/Window/Export.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\window\cursor.h
+	<SFML/System/Vector2.h>
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\window\touch.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+	<SFML/System/Vector2.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\blendmode.h
+	<SFML/Graphics/Export.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\export.h
+	<SFML/Config.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\circleshape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1545162330 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\color.h
+	<SFML/Graphics/Export.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\rect.h
+	<SFML/Graphics/Export.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\transform.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\types.h
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\convexshape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\font.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/FontInfo.h>
+	<SFML/Graphics/Glyph.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/InputStream.h>
+	<stddef.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\fontinfo.h
+	<SFML/Graphics/Export.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\glyph.h
+	<SFML/Graphics/Rect.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\image.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\primitivetype.h
+	<SFML/Graphics/Export.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\rectangleshape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\renderstates.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/BlendMode.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\rendertexture.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/RenderStates.h>
+	<SFML/Graphics/Vertex.h>
+	<SFML/Window/Window.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\vertex.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/System/Vector2.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\renderwindow.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/RenderStates.h>
+	<SFML/Graphics/Vertex.h>
+	<SFML/Window/Event.h>
+	<SFML/Window/VideoMode.h>
+	<SFML/Window/WindowHandle.h>
+	<SFML/Window/Window.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\shader.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Glsl.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Vector2.h>
+	<SFML/System/Vector3.h>
+	<stddef.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\glsl.h
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Color.h>
+	<SFML/System/Vector2.h>
+	<SFML/System/Vector3.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\shape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\sprite.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/BlendMode.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\text.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\texture.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Window/Types.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\transformable.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/System/Vector2.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\vertexarray.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/Vertex.h>
+	<stddef.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\vertexbuffer.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/Vertex.h>
+	<stddef.h>
+
+1544127576 c:\users\andrei\desktop\facultate\proiecte\pacanea\csfml 2.5\include\sfml\graphics\view.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1545222472 source:c:\users\andrei\desktop\facultate\proiecte\pacanea\intro.c
+
+1545341046 source:c:\users\andrei\desktop\facultate\proiecte\pacanea\source_code\intro.c
+	"pacanea.h"
+
